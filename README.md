@@ -2,6 +2,12 @@
 
 Este projeto consiste em uma interface de **login e registro** com uma animação de transição entre as telas. O layout foi projetado com um esquema de cores agradáveis e uma navegação intuitiva.
 
+## Exemplo de Tela
+
+Aqui está um exemplo da aparência do site:
+
+![Tela de Login](./assets/image.png)
+
 ## Funcionalidades
 
 - Tela de **login** e **registro** com animações de transição suaves.
